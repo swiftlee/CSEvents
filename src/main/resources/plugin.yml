@@ -1,0 +1,7 @@
+name: Csevents
+version: ${project.version}
+main: com.phaseos.csevents.Csevents
+api-version: 1.13
+authors: [swiftlee]
+description: Fun minigame events that can be hosted by staff, donors, or anyone who has permission.
+website: jonconlin.codes
